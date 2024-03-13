@@ -1,0 +1,77 @@
+.eager-escapes__navbar{
+    width: 90%;
+    height: 30px;
+    margin: auto;
+    margin-top: 20px;
+
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    background-color: aquamarine;
+    
+}
+.eager-escapes__navbar-leftside{
+    width: 30%;
+    height: 100%;
+
+    display:flex;
+    flex-direction: row;
+    text-align: left;
+    justify-content:flex-start;
+}
+.eager-escapes__navbar-leftside div{
+
+    min-width:100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-transform: uppercase;
+    border-right: 3px solid white;
+    color:#fff;
+    cursor: pointer;
+}
+.eager-escapes__navbar-leftside div :hover{
+    color: #B7521E;
+}
+
+.eager-escapes__navbar-rightside{
+    width: 30%;
+    height: 100%;
+
+    display:flex;
+    flex-direction: row;
+    text-align: left;
+    justify-content:flex-start;
+    
+}
+
+.eager-escapes__navbar-rightside div{
+
+    min-width:100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-transform: uppercase;
+    border-right: 3px solid white;
+    color:#fff;
+    cursor: pointer;
+}
+.eager-escapes__navbar-rightside div :hover{
+    color: #B7521E;
+}
+
+.eager-escapes__navbar-logo{
+    width: 30%;
+    height: 150%;
+
+    display:flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content:center;
+    cursor: pointer;
+
+}
