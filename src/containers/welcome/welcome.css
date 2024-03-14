@@ -1,0 +1,17 @@
+.eager-escapes__welcome{
+    width:80%;
+    height:100vh;
+    background-color: yellow;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    padding: 2rem 5rem 2rem 5rem;
+    margin: auto;
+
+}
+.eager-escapes__welcome h1{
+    color: black;
+
+}
