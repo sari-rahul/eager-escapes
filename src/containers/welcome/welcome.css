@@ -1,6 +1,6 @@
 .eager-escapes__welcome{
     width:80%;
-    height:100vh;
+    height:110vh;
     background-color: yellow;
 
     display: flex;
@@ -13,5 +13,26 @@
 }
 .eager-escapes__welcome h1{
     color: black;
+    padding-top: 5rem ;
+    font-size: 48px;
+
+}
+.eager-escapes__welcome hr{
+    width: 60%;
+    height:3px;
+    background-color: gray;
+
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+.eager-escapes__welcome p{
+    width: 60% ;
+    font-size: 20px;
+    line-height: 35px;
+}
+.eager-escapes__welcome-button{
+    width: 20%;
+    height:50px;
+    margin-top: 5rem;
 
 }
