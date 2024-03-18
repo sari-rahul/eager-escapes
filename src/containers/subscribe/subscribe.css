@@ -1,7 +1,7 @@
 .eager-escapes__subscribe{
     width: 100%;
     height: 50vh;
-    background-color:#748074;
+    background-color:#87aa87;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -26,7 +26,7 @@
 .eager-escapes__subscribe-form input{
     width: 200px;
     padding: 1rem;
-    background-color:#748074;
+    background-color:#87aa87;
     border: 1px solid #b7b6b6;
     color: rgb(0, 0, 0);
     margin-left: 10px;

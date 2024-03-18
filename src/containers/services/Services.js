@@ -1,6 +1,6 @@
 import React from 'react';
 import './services.css';
-import {desert,lake,backwater,palace } from './imports.js';
+import {desert,lake,backwater,palace } from './import.js';
 
 import Card from '../../components/card/Card.js'
 
